@@ -1,5 +1,5 @@
 # N-gram Language Models
-
+You can find the ipynb here: https://colab.research.google.com/github/StefanatouGerasimina/N-gram-Language-Models/blob/main/project.ipynb 
 ## Overview
 
 This project was developed as part of the **Text Analytics** course (2025-26) and covers two exercises on N-gram Language Models:
